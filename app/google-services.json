@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "100172662413",
+    "project_id": "smaknis-d7c45",
+    "storage_bucket": "smaknis-d7c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100172662413:android:893dbf9335da70f9fe84c4",
+        "android_client_info": {
+          "package_name": "com.example.authenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100172662413-03ma0q2d0966s6vcvgaefosn5ecb34rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YQCdThFc3DgY9Zdmj2QuqazZ_Q4fBPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100172662413-03ma0q2d0966s6vcvgaefosn5ecb34rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100172662413:android:302792048d54c1fafe84c4",
+        "android_client_info": {
+          "package_name": "com.example.smaknisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100172662413-03ma0q2d0966s6vcvgaefosn5ecb34rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YQCdThFc3DgY9Zdmj2QuqazZ_Q4fBPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100172662413-03ma0q2d0966s6vcvgaefosn5ecb34rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
